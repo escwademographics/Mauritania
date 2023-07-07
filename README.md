@@ -1,2 +1,2 @@
-# Bahrain
-Bahrain Questionnaire Web App
+# Mauritania
+Mauritania Questionnaire Web App
